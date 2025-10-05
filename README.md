@@ -1,12 +1,12 @@
 🤖 AI Health & Therapy Assistant
 An empathetic, real-time, voice-based AI therapy and mental health companion powered by Cerebras, Meta Llama, LiveKit, and Docker MCP.
 
-🧩 Business Overview
+<font color="#4338CA">🧩 Business Overview</font>
 Modern healthcare faces a major challenge: mental health and therapy services are often inaccessible, expensive, and inconsistent. Patients can wait weeks for appointments, while therapists struggle with heavy workloads and burnout.
 
 Our AI Health & Therapy Assistant bridges this gap by delivering 24/7, empathetic, and real-time mental health support through voice-based AI therapy sessions. By leveraging advanced Large Language Models (LLMs) and real-time speech intelligence, we provide a safe, consistent, and accessible resource for anyone in need.
 
-📈 Solving Real-World Problems
+<font color="#16A34A">📈 Solving Real-World Problems</font>
 Our platform directly addresses critical gaps in the current mental healthcare system.
 
 Problem: Lack of Access
@@ -25,7 +25,7 @@ Problem: Fear of Judgment (Stigma)
 
 Solution: Many people avoid seeking help due to fear of being judged. Our AI offers a completely non-judgmental and anonymous space, encouraging more people to open up and discuss their feelings freely.
 
-✨ Key Features
+<font color="#9333EA">✨ Key Features</font>
 🗣️ Real-Time Voice Therapy: Engage in natural, voice-based conversations with an AI therapist that listens and responds with ultra-low latency.
 
 ❤️ Empathetic Dialogue: The AI is trained to detect emotional tone and generate psychologically safe, empathetic responses.
@@ -38,7 +38,7 @@ Solution: Many people avoid seeking help due to fear of being judged. Our AI off
 
 🔒 Secure & Confidential: All conversations are private and handled within a secure, containerized environment.
 
-🚀 Technology Stack
+<font color="#586069">🚀 Technology Stack</font>
 This project integrates a powerful stack of cutting-edge AI and infrastructure technologies.
 
 🧠 Cerebras - For Ultra-Low Latency Inference
@@ -76,7 +76,7 @@ Impact: Created a modular, portable, and scalable system that can be deployed on
 🖥️ Next.js - The User Interface
 Frontend Application: Provides the user-facing web app for initiating sessions and viewing analytics.
 
-🔄 Working Flow
+<font color="#17A2B8">🔄 Working Flow</font>
 The system creates a seamless, real-time conversational loop between the user and the AI.
 
 ▶️ Initiate Session: The user starts a session in the Next.js web application.
@@ -95,5 +95,5 @@ The system creates a seamless, real-time conversational loop between the user an
 
 📑 Summarize: At the end, the AI generates a session summary for the user to review in their dashboard.
 
-⚠️ Disclaimer
+<font color="#FD7E14">⚠️ Disclaimer</font>
 This AI Health & Therapy Assistant is a supportive tool and is not a substitute for professional medical advice, diagnosis, or treatment from a licensed therapist, psychologist, or doctor. If you are in crisis, please contact a local emergency service or a mental health crisis hotline.
