@@ -1,0 +1,27 @@
+# Virtual Environment
+livekit-agent/venv/
+livekit-agent/__pycache__/
+livekit-agent/*.pyc
+
+# Environment files
+*.env
+livekit-agent/.env
+
+# Node modules
+agent-starter-react/node_modules/
+agent-starter-react/.next/
+agent-starter-react/.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+livekit-agent/KMS/logs/ 
